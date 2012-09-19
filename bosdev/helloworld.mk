@@ -5,6 +5,8 @@
 ## FILES:
 ##   /usr/local/bin/*
 
+.PHONY: compile install clean
+
 compile:
 	$(MAKE) all
 

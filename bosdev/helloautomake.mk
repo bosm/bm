@@ -12,6 +12,8 @@
 ## FILES-doc:
 ##   /usr/share/doc/*
 
+.PHONY: config compile install clean
+
 config:
 	autoreconf -i
 	./configure --prefix=/usr \
