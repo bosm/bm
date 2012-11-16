@@ -18,7 +18,6 @@
 ## FILES-doc:
 ##   /usr/share/man
 
-.PHONY: config compile install clean
 
 config:
 	./configure --prefix=/usr \

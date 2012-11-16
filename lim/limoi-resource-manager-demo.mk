@@ -7,7 +7,6 @@
 ## FILES:
 ##   /usr/lib/limoi/resource-manager/*
 
-.PHONY: config compile install clean
 
 config:
 	autoreconf -i

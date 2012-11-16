@@ -17,7 +17,6 @@
 ##   /usr/lib/pkgconfig/*
 ##   /usr/include/*
 
-.PHONY: config compile install clean
 
 config:
 	autoreconf -i

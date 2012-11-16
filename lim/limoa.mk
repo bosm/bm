@@ -19,7 +19,6 @@
 ## FILES-test:
 ##   /usr/bin/*
 
-.PHONY: config compile install clean
 
 config:
 	autoreconf -i
